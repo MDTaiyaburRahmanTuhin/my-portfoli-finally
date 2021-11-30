@@ -1,4 +1,21 @@
+p{
+  color: whitesmoke;
+}
+.bgtransparent{
+  background-color: #172a45;
+}
+h4{
+  color: whitesmoke;
+}
+h2{
+  color: whitesmoke;
+}
+.wrapper{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
 body {
+  background-color: #0a192f;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
