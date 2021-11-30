@@ -16,6 +16,9 @@ const Contact = () => {
                         <input type='text' className='form-control' placeholder='Subject' name='subject' />
                     </div>
                     <div className='col-8 form-group mx-auto p-2'>
+                        <input type='text' className='form-control' placeholder='Message' name='message' />
+                    </div>
+                    <div className='col-8 form-group mx-auto p-2'>
                         <input type='submit' className='btn btn-info' value='send message' />
                     </div>
                 </div>
