@@ -5,7 +5,7 @@ const MyWork = () => {
     return (
         <div data-aos="fade-right" id='my-work' data-aos-duration="200" className='wrapper'>
             <h2 className='h-color'>My Works</h2>
-            <div className='container'>
+            <div className='container mt-5 p-2'>
                 <div className='row'>
                     <div className='col-md-4'>
                         <div className="card bgtransparent card-style">

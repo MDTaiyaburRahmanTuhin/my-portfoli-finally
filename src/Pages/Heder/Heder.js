@@ -20,7 +20,7 @@ const Heder = () => {
                     <Link to={{ pathname: "https://drive.google.com/file/d/1GahNC1VGKcyN3D8AfTF8_Bz7OU0heArI/view?usp=sharing" }} target="_blank" ><Button>My Resume</Button></Link>
                 </div>
                 <div className="col-lg-6 col-md-12">
-                    <img loading='lazy' src="https://i.ibb.co/vws82kL/Tuhin.jpg" alt="" className='image' />
+                    <img loading='lazy' src="https://i.ibb.co/vws82kL/Tuhin.jpg" alt="" className='image float-end' />
                 </div>
             </div>
 
