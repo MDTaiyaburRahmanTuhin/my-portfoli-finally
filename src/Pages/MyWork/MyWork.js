@@ -9,6 +9,21 @@ const MyWork = () => {
                 <div className='row'>
                     <div className='col-md-4'>
                         <div className="card bgtransparent card-style">
+                            <img src="https://i.ibb.co/NF0sXHv/House-Keeping-Service.png" className="card-img-top w-100 img" alt="..." />
+                            <div className="card-body">
+                                <h4>Special Child Education</h4>
+                                <p className="card-text">A special needs child is a youth who has been determined to require special attention and specific necessities that other children do not</p>
+                            </div>
+                            <div className='d-flex justify-content-between m-3'>
+                                <Link to={{ pathname: "https://github.com/MDTaiyaburRahmanTuhin/house-keeping-service-mern-client" }} target="_blank" ><i className="fab fa-github-square bg"></i></Link>
+                                <Link to={{ pathname: "https://house-keeping-service.web.app/" }} target="_blank" ><i className="fas fa-eye bg"></i></Link>
+
+
+                            </div>
+                        </div>
+                    </div>
+                    <div className='col-md-4'>
+                        <div className="card bgtransparent card-style">
                             <img src="https://i.ibb.co/Fm0gnBw/Fish-Fish-1.png" className="card-img-top w-100 img" alt="..." />
                             <div className="card-body">
                                 <h4>Aquarium Fish</h4>
@@ -33,21 +48,7 @@ const MyWork = () => {
                             </div>
                         </div>
                     </div>
-                    <div className='col-md-4'>
-                        <div className="card bgtransparent card-style">
-                            <img src="https://i.ibb.co/kmTTQcQ/Special-Child-1.png" className="card-img-top w-100 img" alt="..." />
-                            <div className="card-body">
-                                <h4>Special Child Education</h4>
-                                <p className="card-text">A special needs child is a youth who has been determined to require special attention and specific necessities that other children do not</p>
-                            </div>
-                            <div className='d-flex justify-content-between m-3'>
-                                <Link to={{ pathname: "https://github.com/MDTaiyaburRahmanTuhin/-review-website-special-child" }} target="_blank" ><i className="fab fa-github-square bg"></i></Link>
-                                <Link to={{ pathname: "https://special-child-our-hero.netlify.app/" }} target="_blank" ><i className="fas fa-eye bg"></i></Link>
 
-
-                            </div>
-                        </div>
-                    </div>
                 </div>
 
             </div>
