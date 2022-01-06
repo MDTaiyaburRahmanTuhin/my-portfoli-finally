@@ -11,7 +11,7 @@ const MyWork = () => {
                         <div className="card bgtransparent card-style">
                             <img src="https://i.ibb.co/NF0sXHv/House-Keeping-Service.png" className="card-img-top w-100 img" alt="..." />
                             <div className="card-body">
-                                <h4>Special Child Education</h4>
+                                <h4>House Keeping</h4>
                                 <p className="card-text">A special needs child is a youth who has been determined to require special attention and specific necessities that other children do not</p>
                             </div>
                             <div className='d-flex justify-content-between m-3'>
